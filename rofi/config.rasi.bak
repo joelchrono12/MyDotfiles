@@ -1,0 +1,11 @@
+configuration {
+
+	modi: "drun,calc:qalc,window,run";
+	width: 25;
+	show-icons: true;
+	icon-theme: "Flatery-Blue-Dark";
+	theme: "~/.config/rofi/themes/dt-center.rasi";
+	lines: 13;
+	fake-transparency: true;
+	sidebar-mode: true;
+}
